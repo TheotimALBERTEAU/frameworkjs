@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b8faa65-b59c-4c69-a0a6-48db1ec02c89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp02.js" beforeDir="false" afterPath="$PROJECT_DIR$/tp02.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TRAVAIL\B2\FRAMEWORK JS\tps" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759998738414</updated>
       <workItem from="1759998739376" duration="645000" />
-      <workItem from="1759999402150" duration="8223000" />
+      <workItem from="1759999402150" duration="9402000" />
     </task>
     <servers />
   </component>
