@@ -1,9 +1,9 @@
 {
   "name": "framework-js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "tps/index.js",
   "scripts": {
-    "start" : "node index.js"
+    "start" : "node tps/index.js"
   },
   "author": "",
   "license": "ISC",
