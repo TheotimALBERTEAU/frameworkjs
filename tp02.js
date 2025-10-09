@@ -29,6 +29,17 @@ for (let enemy of enemies) {
 
 let damages = [5, 10, 20]
 for (let enemy of enemies) {
-    PV -= damages[enemies.indexOf(enemy)]
+    if (damages[enemies.indexOf(enemy)] > 5) {
+        PV -= damages[enemies.indexOf(enemy)]
+    } else {
+        inventory.forEach((item) => {
+            if (item == "shield") {
+                inventory.pop(item)
+                console.log("Votre bouclier a été cassé")
+            } else if (item != "shield" && inventory.indexOf(item) == inventory.length - 1) {
+                PV -= damages[enemies.indexOf(enemy)]
+            }
+        })
+    }
 }
 console.log(PV)
